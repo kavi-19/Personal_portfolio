@@ -1,1 +1,1 @@
-Repo: github.com/kavi-19/Personal_portfolio.
+Repo: https://brilliant-marzipan-552015.netlify.app
